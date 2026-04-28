@@ -43,7 +43,9 @@ This project focuses on performing Exploratory Data Analysis (EDA) on the provid
 * The dataset shows useful trends that can support decision-making.
 
 ## Files Included
-* `EDA_Task.ipynb` → Full analysis notebook
+* `finalflightproject.ipynb` → Full analysis notebook
+* images/ → Charts and visualizations
+* tableau.twbx → Dashboard file
 
 
 ## How to Run
